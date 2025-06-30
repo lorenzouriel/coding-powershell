@@ -22,7 +22,9 @@ If you're interested in joining this collaborative effort, **feel free to fork t
 |---|---|
 | [admin-scripts](/admin-scripts/) | Windows Admin Scripts |
 | [disks](/disks/) | Disks manipulation scripts |
+| [helps](/helps/) | Scripts that assist with specific tasks |
 | [powerbi-report-server](/powerbi-report-server/) | Scripts to download and automate Power BI Report Server tasks |
+| [scheduler](/scheduler/) | Scripts for scheduling purposes |
 | [sql-server](/sql-server/) | Scripts to download and automate SQL Server tasks |
 | [visual-studio-2019](/visual-studio-2019/) | Scripts to download and automate Visual Studio 2019 tasks |
 
