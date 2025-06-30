@@ -8,7 +8,8 @@
 | [restore_database.ps1](/sql-server/restore_database.ps1) | Script to restore database |
 | [ssis-task-scheduler.ps1](/sql-server/ssis-task-scheduler.ps1) | Script that configure SSIS package to run through Task Scheduler |
 | [unzip_database.ps1](/sql-server/unzip_database.ps1) | Unzip the database |
-
+| [backup_and_upload_azcopy.ps1](/sql-server/backup_and_upload_azcopy.ps1) | Collect latest backups from multiple folders and upload them to Azure Blob Storage using AzCopy |
+| [cleanup_old_backups.ps1](/sql-server/cleanup_old_backups.ps1) | Delete `.bak` files older than a defined number of days from backup folders |
 
 - Do you want to know more about each script, check and test the code!
 
